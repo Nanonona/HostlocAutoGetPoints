@@ -5,7 +5,7 @@ on:
     branches: 
       - main
   schedule:
-    - cron: '37 16 * * *'
+    - cron: '37 7 * * *'
 
 jobs:
   get_points:
